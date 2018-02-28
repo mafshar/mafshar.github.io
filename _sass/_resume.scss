@@ -78,7 +78,7 @@
   padding: 0;
   list-style: none;
   position: relative;
-  top: 0px;
+  top: 4px;
   text-align: center;
   border-top: 2px solid #c7c7c7;
   padding-top: .4rem;
@@ -92,15 +92,8 @@
   .icon-link-item {
     display: inline-block;
     margin-left: 5px;
-    > a {
-      color: #c7c7c7;
-    }
-    > a:hover {
-        color: #333;
-    }
-
   }
-/*
+
   .icon-link { display: inline-block;
 
     &:hover .icon path {
@@ -108,7 +101,10 @@
       @include transition(all .2s ease);
     }
   }
-  */
+
+  .icon {
+    height: 28px;
+  }
 }
 
 .contact-button {
@@ -152,6 +148,10 @@
     font-size: 1.125rem;
     margin: 0 0 .75rem;
     line-height: 1;
+
+    &.award-title {
+      font-size: 1rem;
+    }
   }
 
   .resume-item-title,
@@ -171,10 +171,6 @@
   }
 
   .resume-item-copy { margin: .75rem 0 0; }
-}
-
-  #uniName {
-    margin: 0 0 .75rem !important;
 }
 
 // footer styles
@@ -225,9 +221,13 @@
 
     .resume-item-details {
       font-size: 12px;
-      margin: 0;
+      margin: 0 0 .75rem;
       line-height: .7em;
       font-style:italic;
+
+      &.award-title {
+        font-size: 11px;
+      }
     }
   }
 }
