@@ -4,34 +4,34 @@
 # Facial Recognition
 - project: Facial Recognition
   role: Developer
-  # duration: 2012 &mdash; Present
+  duration: 2016
   # url: "#"
   description: Designed and implemented using Lua, Torch, and Torchnet a Convolutional Neural Network (CNN) to recognize faces. The dataset was the Labelled Faces in The Wild (LFTW) dataset; the design of the CNN was based on Facebook's initial facial recognition pipeline, called DeepFace. Pipeline focused on initial detection followed by training. Detection was based on 2-D and 3-D alignment. Accuracy on test set was 85%.
 
 # SSD with Pose-Estimation
 - project: Single-Shot MultiBox Detector with Pose Estimation
   role: Developer
-  # duration: 2007 &mdash; Present
+  duration: 2016
   # url: "#"
   description: Designed and implemented a pose-estimation platform using Python, OpenCV, and TensorFlow to detect humans, estimate their pose using a Single Shot Multi-box Detector, and follow their pose in realtime. Leveraged TensorFlow to design Convolutional Neural Networks (CNNs) for human detection. Utilized an open source library written in Keras for pose-estimation pipeline.
 
 # Speaker Classification
 - project: Speaker Classification
   role: Developer
-  # duration: 2007 &mdash; Present
+  duration: 2015
   # url: "#"
   description: Designed and implemented a speaker classification system based on the Simpson's dataset. The pipeline worked to obtain low-level features (MFCCs) and uses a bag-of-words method to feature engineer a vector that represents the audio. The classification model used an SVM with an RBF Kernel, which led to a 75% accuracy.
 
 # Cat-Dog
 - project: Cat&Dog Classification
   role: Developer
-  # duration: 2007 &mdash; Present
+  duration: 2015
   # url: "#"
   description: <ul>Survey of various techniques in the classification of cat and dog images (total of 37 classes)<ul> 1) </ul><li>A bag-of-words model using both SIFT and SURF keypoints</li><li>Feature engineer using these keypoints and use a multiclass Support Vector Machine (SVM) with an RBF Kernel</li><li>Max accuracy after parameter tuning was 30%.</li></ul><ul> 2) </ul><li>Using pretrained AlexNet Convolutional Neural Network (CNN) to train on current data, with a SoftMax layer at the end for a probability distribution.</li><li>Top 1 accuracy was 75%</li><li>Top 5 accuracy was 85%</li><ul> 3) </ul><li>Using pretrained AlexNet Convolutional Neural Network (CNN) to train on current data, with a Random Forest at the end for classification.</li><li>Top 1 accuracy was 85%</li><li>Top 5 accuracy was 93%</li></ul>
 
 # Weakly Supervised Disease Detection and Classification
 - project: Weakly Supervised Disease Detection and Classification
   role: Developer
-  # duration: 2007 &mdash; Present
+  duration: 2018
   # url: "#"
   description: Coming soon.
