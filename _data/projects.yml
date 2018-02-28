@@ -25,13 +25,13 @@
 # Cat-Dog
 - project: Cat&Dog Classification
   role: Developer
-  duration:
+  duration: 2015
   # url: "#"
   description: <ul>Survey of various techniques in the classification of cat and dog images (total of 37 classes)<ul> 1) </ul><li>A bag-of-words model using both SIFT and SURF keypoints</li><li>Feature engineer using these keypoints and use a multiclass Support Vector Machine (SVM) with an RBF Kernel</li><li>Max accuracy after parameter tuning was 30%.</li></ul><ul> 2) </ul><li>Using pretrained AlexNet Convolutional Neural Network (CNN) to train on current data, with a SoftMax layer at the end for a probability distribution.</li><li>Top 1 accuracy was 75%</li><li>Top 5 accuracy was 85%</li><ul> 3) </ul><li>Using pretrained AlexNet Convolutional Neural Network (CNN) to train on current data, with a Random Forest at the end for classification.</li><li>Top 1 accuracy was 85%</li><li>Top 5 accuracy was 93%</li></ul>
 
 # Weakly Supervised Disease Detection and Classification
 - project: Weakly Supervised Disease Detection and Classification
   role: Developer
-  duration: 2007 &mdash; Present
+  duration: 2018
   # url: "#"
   description: Coming soon.
