@@ -1,10 +1,15 @@
 # Recognitions
-- award: Front End Developer
-  organization: freeCodeCamp
-  year: 2017
-  summary: Earned the Front End Developer certification from freeCodeCamp. View my projects at <a href="https://www.freecodecamp.org/andreidbr" target=_blank rel="noopener noreferrer">this link</a>.
+- award: Outstanding Achievement
+  organization: Springfield Nuclear Power Plant
+  year: 2010
+  summary: Awarded for stopping a nuclear meltdown, even though I also started it.
 
-- award: Foundation Level Certified Tester
-  organization: ISTQB
-  year: 2017
-  summary: Successfully completed the Foundation Level Certified Tester examination organized by the International Software Testing Qualifications Board (ISTQB).
+- award: Duff Beer Customer of the year
+  organization:
+  year: 1997 &mdash; 2001, 2003, 2008 &mdash; 2012
+  summary: Honored by <a href="https://en.wikipedia.org/wiki/Duff_Beer">Duff Beer</a> for being an outstanding customer several years straight. Qualifications included most beer consumed at a bar, most beer purchased, and most beer ralphed.
+
+- award: Moe's Patron of the Month
+  organization: 
+  year: 12/2001, 8/2004
+  summary: Specifically this prestigious awarded twice for stopping a robber with my belly.

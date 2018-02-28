@@ -1,12 +1,14 @@
-# College
-- degree: Bachelor's (Licence) Degree
-  uni: Spiru Haret University
-  year: 2008 &mdash; 2011
+# Degree
+- degree: Master of Science
+  uni: New York University: Courant Institute of Mathematical Sciences
+  year: 2016 &mdash; 2018
   awards:
-  summary: Specialized and graudated in Sociology
+    # - award: Quickest to fall asleep
+    # - award: Fastest donut eater
+  summary: Computer Science | Machine Learning
 
-#High-school
-- degree: High School Degree
-  uni: Stefan Odobleja Theoretical High School
-  year: 2004 &mdash; 2008
-  summary: Specialized and graduated in Mathematics and Computer Science
+- degree: Bachelor of Arts
+  uni: New York University: Courant Institute of Mathematical Sciences
+  year: 2013 &mdash; 2017
+  award:
+  summary: Majors: Mathematics, Computer Science; Minor: Electrical Engineering

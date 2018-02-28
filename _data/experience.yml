@@ -1,30 +1,19 @@
 # Jobs
-# HSBC
-- company: Endava
-  position: QA Automation Engineer
-  duration: Oct, 2017 &mdash; Present
-  summary: I am a Quality Assurance Automation engineer, currently working on front-end and back-end testing for a worldwide payment solutions provider.<ul><li>Developed new and transitioned old component and component integration tests for back-end systems using Java and TestNG</li><li>Developed new features for the back-end testing framework alongside the software engineering team</li><li>Examined back-end systems for vulnerabilities and defects, such as SQL databases or ActiveMQ broker and queues</li><li>Developed automated tests for front-end user interface using Selenium and Cucumber</li><li>Organized testing efforts for improved visibility and refined existing documentation</li><li>Took the lead on onboarding new joiners and getting them up to speed with procedures, requirements, and tools</li></ul>
+# Tapad Software Engineering Intern
+- company: Tapad
+  position: Software Engineering Intern
+  duration: Jun, 2017 &mdash; Aug, 2017
+  summary: <ul><li>Utilize the scalatest and mockito frameworks to increase test coverage on the data platform service improving the stability of the platform engine’s ability to generate an accurate graph of all connected electronic devices</li><li>Connect a web of consumer and client APIs using kafka streams</li></ul>
 
-# HSBC
-- company: HSBC
-  position: QA Engineer
-  duration: Jan, 2017 &mdash; Oct, 2017
-  summary: I was a Quality Assurance engineer, responsible for testing and analyzing various internal intiatives.<ul><li>Performed manual and automated testing for an internal web application</li><li>Took ownership of the quality assurance process and translated requirements into test cases that were executed manually, at first, and then automatically through the Selenium framework using the Java language</li><li>Conveyed test results and statistics into easy to comprehend information for stakeholders to increase confidence in the tool</li><li>Came up with suggestions to improve the software development lifecycle of the application, while also acting as the Scrum Master for the team of developers</li><li>Performed data analysis and reconciliation for other financial tools developed internally</li></ul>
+# Criteo Machine Intelligence Engineering Intern
+- company: Criteo
+  position: Machine Intelligence Engineering Intern
+  duration:  Sep, 2015 &mdash; Aug, 2016
+  summary: <ul><li>Leveraged Caffe and Torch to implement learning models (Convolutional Neural Nets) to identify similar products based on image and description</li><li>Implemented API to leverage those models at scale, serving 10 million requests per day</li><li>Project contributed to 14% improvement in overall product performance</li></ul>
 
-# HSBC
-- company: HSBC
-  position: Technical Writer
-  duration: Sep, 2016 &mdash; Oct, 2017
-  summary: I was a technical writer responsible for internal documentation and training author for different initiatives in the large bank.<ul><li>Wrote technical documentation for internal financial systems used by HSBC</li><li>Acted as the bridge between users and the development teams inside HSBC to ensure that the functional and technical documents satisfy and exceed all standards and expectations</li><li>Created and delivered training courses and knowledge workshops for colleagues both locally and throughout Europe on a variety of topics, such as technical and soft skills</li><li>Organized existing documentation and resources found in tools like Confluence or JIRA</li><li>Operated as local onboarding manager for all new joiners to ensure that they are up to speed and ready for deployment as soon as possible</li></ul>
 
-# Misys
-- company: Misys Financial Software
-  position: Associate Technical Writer
-  duration:  Nov, 2015 &mdash; Sep, 2016
-  summary: I acted as a technical writer responsible for many different financial software products developed by Misys.<ul><li>Developed, wrote and maintained end-user, system administration, and developer documentation using tools like Adobe FrameMaker or Microsoft Word</li><li>Maintained Online Help portals, while creating new tutorials and release notes using tools like Adobe RoboHelp</li><li>Interacted with different teams across Misys to ensure user needs are met and surpassed with all releases</li><li>Improved the internal strategy of documentation development and came up with new strategic objectives for the department's development</li><li>Ensured client satisfaction through continuous professional development by understanding the product functionality using interviews with matter experts and personal experience</li></ul>
-
-# Softpedia
-- company: Softpedia
-  position: Games Editor
-  duration: Aug, 2010  &mdash; Oct, 2015
-  summary: I worked as a news editor for Softpedia's Games section, covering everything that happened in interactive entertainment.<ul><li>Documented events in the gaming industry and wrote comprehensive articles about them, their impact, and their possible repercussions on the regular gamer</li><li>Developed the quality standards of the articles written and published on Softpedia</li>Played, reviewed, and documented both important triple-A games but also titles developed by independent studios and teams</li><li>Developed and improved the social media presence of Softpedia's Games division across Facebook, Twitter, YouTube, and many other networks</li><li>Recorded, edited, and uploaded videos using Adobe Premiere, while optimizing, enhancing, and retouching photos and images with Adobe Photoshop</li></ul>
+# Criteo Data Engineering Intern
+- company: Criteo
+  position: Data Engineering Intern
+  duration:  Jun, 2015 &mdash; Aug, 2015
+  summary: <ul><li>Leveraged Graphite and Grafana to record better KPIs</li><li>Aided in creating a real-time computation to increase throughput and maintain latency</li><li>Increased visibility into the data pipeline by 16%</li></ul>
