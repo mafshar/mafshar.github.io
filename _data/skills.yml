@@ -1,0 +1,16 @@
+# Skills
+# PL
+- skill: Languages
+  description: Python, Scala, Java, Lua
+
+# ML
+- skill: Tools & Frameworks (Machine Learning)
+  description: Scikit-Learn, TensorFlow, PyTorch, OpenCV, Caffe
+
+# Big Data
+- skill: Tools & Frameworks (Big Data)
+  description: Spark, Hadoop, Hive
+
+# Cloud Services
+- skill: Tools & Frameworks (Cloud Services, CI/CD)
+  description: AWS, Docker, Travis, Jenikins, Kubernetes

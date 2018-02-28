@@ -1,0 +1,14 @@
+# Degree
+- degree: Master of Science
+  uni: New York University: Courant Institute of Mathematical Sciences
+  year: 2016 &mdash; 2018
+  awards:
+    # - award: Quickest to fall asleep
+    # - award: Fastest donut eater
+  summary: Computer Science | Machine Learning
+
+- degree: Bachelor of Arts
+  uni: New York University: Courant Institute of Mathematical Sciences
+  year: 2013 &mdash; 2017
+  award:
+  summary: Majors: Mathematics, Computer Science; Minor: Electrical Engineering

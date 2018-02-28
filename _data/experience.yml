@@ -1,0 +1,19 @@
+# Jobs
+# Tapad Software Engineering Intern
+- company: Tapad
+  position: Software Engineering Intern
+  duration: Jun, 2017 &mdash; Aug, 2017
+  summary: <ul><li>Utilize the scalatest and mockito frameworks to increase test coverage on the data platform service improving the stability of the platform engine’s ability to generate an accurate graph of all connected electronic devices</li><li>Connect a web of consumer and client APIs using kafka streams</li></ul>
+
+# Criteo Machine Intelligence Engineering Intern
+- company: Criteo
+  position: Machine Intelligence Engineering Intern
+  duration:  Sep, 2015 &mdash; Aug, 2016
+  summary: <ul><li>Leveraged Caffe and Torch to implement learning models (Convolutional Neural Nets) to identify similar products based on image and description</li><li>Implemented API to leverage those models at scale, serving 10 million requests per day</li><li>Project contributed to 14% improvement in overall product performance</li></ul>
+
+
+# Criteo Data Engineering Intern
+- company: Criteo
+  position: Data Engineering Intern
+  duration:  Jun, 2015 &mdash; Aug, 2015
+  summary: <ul><li>Leveraged Graphite and Grafana to record better KPIs</li><li>Aided in creating a real-time computation to increase throughput and maintain latency</li><li>Increased visibility into the data pipeline by 16%</li></ul>
