@@ -1,6 +1,6 @@
 # Site settings
-title: "Mohammad Afshar"
-description: ""
+title: "Andrei Dobra"
+description: "My resume created in Jekyll"
 
 # Build settings
 markdown: kramdown
@@ -9,14 +9,12 @@ sass:
   style: compressed
 
 # Resume settings
-resume_avatar:                  "true"
-resume_name:                    "Mohammad Afshar"
-resume_title:                   "Machine Learning Engineer"
-resume_contact_email:           "ma2510@nyu.edu"
-resume_contact_telephone:       "347-889-4070"
-resume_contact_address:         "New York, NY"
-resume_header_contact_info: "New York, NY | 347-889-4070 | ma2510@nyu.edu"
-resume_header_intro: "<p>Become a better problem solver: generally with computers, math and algorithms; sometimes with words; often with teams of collaborators.</p>"
+resume_avatar:                  "false"
+resume_name:                    "Andrei Dobra"
+resume_title:                   "QA Automation Engineer"
+resume_contact_email:           "andrey.dobra@gmail.com"
+resume_header_contact_info:     ""
+resume_header_intro:            "<p>I am a creative person and love exploring systems and applications. I am an agile learner and I want to develop my skills in all sorts of challenging situations.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -30,22 +28,21 @@ resume_section_experience:      true
 resume_section_education:       true
 resume_section_projects:        true
 resume_section_skills:          true
-# resume_section_recognition:     true
-resume_section_links:           true
-# resume_section_associations:    true
-resume_section_interests:       true
+resume_section_recognition:     true
+resume_section_links:           false
+resume_section_associations:    false
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/mafshar/"
-  resume_twitter_url:           "http://twitter.com/artificial_momo/"
-  # resume_dribbble_url:          "https://dribbble.com/jag"
+  resume_medium_url:            "https://medium.com/@andrey.dobra"
+  resume_linkedin_url:          "https://www.linkedin.com/in/dobraandrei/"
+  resume_github_url:            "https://github.com/andreidbr/"
+  resume_twitter_url:           "https://twitter.com/AndreyDbr"
   # resume_facebook_url:          "insert Facebook URL here"
-  resume_linkedin_url:          "https://www.linkedin.com/in/mohammad-afshar/"
   # resume_instagram_url:         "insert your Instagram URL here"
-  # resume_website_url:           "http://momo.com"
-resume_print_social_links:      true
+  # resume_website_url:           "insert website here"
+resume_print_social_links:      false
 
 # Design settings
 resume_theme:                   default

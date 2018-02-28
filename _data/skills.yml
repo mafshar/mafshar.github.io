@@ -1,16 +1,14 @@
 # Skills
-# PL
-- skill: Languages
-  description: Python, Scala, Java, Lua
+# Passion for technology
+- skill: Passion for technology
+  description: I am always eager to develop my skill set, not just when it comes to quality assurance and general testing, but also when it comes to programming. I have experience with languages like Java, as well as HTML5, CSS3, JavaScript, as evidenced by my certification.
 
-# ML
-- skill: Tools & Frameworks (Machine Learning)
-  description: Scikit-Learn, TensorFlow, PyTorch, OpenCV, Caffe
+# Natural teacher
+- skill: Thorough tester
+  description: I enjoy automating testing processes as well as manual exploration of different applications. I have experience with Java frameworks like TestNG and JUnit, as well as web tools like Selenium or Cucumber.
 
-# Big Data
-- skill: Tools & Frameworks (Big Data)
-  description: Spark, Hadoop, Hive
+# Quick learner
+- skill: Quick learner
+  description: I can quickly adapt to new environments and thrive in challenging situations. I bring a positive attitude with me wherever I go and I want to help others with any and all challenges.
 
-# Cloud Services
-- skill: Tools & Frameworks (Cloud Services, CI/CD)
-  description: AWS, Docker, Travis, Jenikins, Kubernetes
+
