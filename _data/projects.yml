@@ -11,7 +11,7 @@
 # SSD with Pose-Estimation
 - project: Single-Shot MultiBox Detector with Pose Estimation
   role: Developer
-  duration: 2016
+  duration: 2017
   # url: "#"
   description: Designed and implemented a pose-estimation platform using Python, OpenCV, and TensorFlow to detect humans, estimate their pose using a Single Shot Multi-box Detector, and follow their pose in realtime. Leveraged TensorFlow to design Convolutional Neural Networks (CNNs) for human detection. Utilized an open source library written in Keras for pose-estimation pipeline.
 
