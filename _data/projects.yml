@@ -29,6 +29,13 @@
   # url: "#"
   description: Survey of various techniques in the classification of cat and dog images (total of 37 classes) <ul>1)<ul><li>A bag-of-words model using both SIFT and SURF keypoints</li></ul> <ul><li>Feature engineer using these keypoints and use a multiclass Support Vector Machine (SVM) with an RBF Kernel</li></ul> <ul><li>Max accuracy after parameter tuning was 30%.</li></ul></ul><ul>2)<ul><li>Using pretrained AlexNet Convolutional Neural Network (CNN) to train on current data, with a SoftMax layer at the end for a probability distribution.</li></ul><ul><li>Top 1 accuracy was 75%</li></ul><ul><li>Top 5 accuracy was 85%</li></ul></ul><ul>3)<ul><li>Using pretrained AlexNet Convolutional Neural Network (CNN) to train on current data, with a Random Forest at the end for classification.</li></ul><ul><li>Top 1 accuracy was 85%</li></ul><ul><li>Top 5 accuracy was 93%</li></ul></ul>
 
+# Computer Graphics Project
+- project: Bump & Texture Mapping
+  role: Developer
+  duration: 2017
+  # url: "#"
+  description: Utilized the OpenGL pipeline to provide texture and bump mapping for .obj files. Developed the entire project from scratch, including both GPU and CPU programming. Obtained realistic results on objects rendered with both bump mapping and texture mapping.
+
 # Weakly Supervised Disease Detection and Classification
 - project: Weakly Supervised Disease Detection and Classification
   role: Developer
